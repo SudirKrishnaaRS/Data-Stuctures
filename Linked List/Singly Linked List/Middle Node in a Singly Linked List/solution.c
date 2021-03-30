@@ -1,3 +1,6 @@
+//Sudir krishnaa RS
+// LinkedIn: https://www.linkedin.com/in/sudirkrishnaars/
+
 // Middle Node in a Singly Linked List
 #include <stdio.h>
 #include<stdlib.h>
