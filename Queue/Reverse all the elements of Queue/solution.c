@@ -56,7 +56,7 @@ void reverse()
             arr[j]=temp;
         }
     }
-    // printf("%d",tot_size);
+    
 }
 
 void display()
