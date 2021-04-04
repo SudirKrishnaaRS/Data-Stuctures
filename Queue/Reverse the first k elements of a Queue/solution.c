@@ -1,4 +1,10 @@
+//Sudir krishnaa RS
+// LinkedIn: https://www.linkedin.com/in/sudirkrishnaars/
 
+// Reverse the first k elements of a Queue 
+
+// Input : Q = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100] k = 5 
+// Output : Q = [50, 40, 30, 20, 10, 60, 70, 80, 90, 100]
 
 #include <stdio.h>
 #include <stdlib.h>
