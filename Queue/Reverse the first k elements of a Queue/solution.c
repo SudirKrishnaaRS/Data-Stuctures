@@ -38,10 +38,9 @@ void reverse()
     int k=0;
     scanf("%d",&k);
     k=k-1; // as arr index starts from 0th index so subtract k by 1 
-    int mid=k/2;
     if(k%2==0)
     {
-        for(int i=front,j=k;i<=mid;i++,j--)
+        for(int i=front,j=k;i<=j;i++,j--)
         {
             int temp=arr[i];
             arr[i]=arr[j];
@@ -50,7 +49,7 @@ void reverse()
     }
     else
     {
-        for(int i=front,j=k;i<mid;i++,j--)
+        for(int i=front,j=k;i<j;i++,j--)
         {
             int temp=arr[i];
             arr[i]=arr[j];
