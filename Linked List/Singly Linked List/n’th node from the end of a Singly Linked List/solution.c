@@ -1,3 +1,6 @@
+//Sudir krishnaa RS
+//LinkedIn: https://www.linkedin.com/in/sudirkrishnaars/
+
 // n’th node from the end of a Singly Linked List
 #include <stdio.h>
 #include<stdlib.h>
